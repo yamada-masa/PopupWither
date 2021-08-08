@@ -1,0 +1,19 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Popup Wither!",
+		"description": "",
+		"uuid": "6bbb9124-337a-483d-9cf2-e57f49ad3849",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 17, 0]
+	},
+	"modules": [
+		{
+			"description": "Popup Wither behavior pack module",
+			"type": "data",
+			"uuid": "6c111ba7-39e9-433e-a89c-23d78ef751cf",
+			"version": [0, 0, 1]
+		}
+	],
+	"dependencies": []
+}
